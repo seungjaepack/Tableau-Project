@@ -1,6 +1,7 @@
 # Tableau-Project
 - Tableau Project Repository
-- Database : HR Dataset
+- Dataset : HR Dataset
+- Tableau url : https://public.tableau.com/app/profile/alex.pack/viz/SSACHUMANRESOURCES/HRStory?publish=yes
 
 ## Topic : 
 
