@@ -1,7 +1,9 @@
 # Tableau-Project
-Tableau Project Repository
+- Tableau Project Repository
+- Database : HR Dataset
 
-- Topic : 
+## Topic : 
+
  ◼︎ The Employees' Information:
   - What is equal gender?
   - What is the number of staff by departments/generation/age-group?
