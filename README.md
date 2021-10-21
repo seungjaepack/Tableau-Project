@@ -29,3 +29,6 @@
   - From which recruitment channel are employees recruited?
   - Is there a relationship between generation, tenure and turnover?
     (compare with pay rate) 
+
+◼︎ The Residence Location:
+ - Where is employees' residence located?
